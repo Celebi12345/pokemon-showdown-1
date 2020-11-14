@@ -257,7 +257,6 @@ export const Formats: FormatList = [
 		name: "[Gen 8] Custom Game",
 
 		mod: 'gen8',
-		searchShow: false,
 		debug: true,
 		maxLevel: 9999,
 		battle: {trunc: Math.trunc},
